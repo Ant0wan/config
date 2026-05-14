@@ -1,16 +1,4 @@
 #### Install
-```shell
-wget -O - https://raw.github.com/Ant0wan/conf/master/remote.sh | bash
-```
-
-```shell
-sh -c "$(wget https://raw.github.com/Ant0wan/conf/master/remote.sh -O -)"
-```
-
-```shell
-sh -c "$(curl -fsSL https://raw.github.com/Ant0wan/conf/master/remote.sh)"
-```
-
 
 #### FDN (French Data Network) - an Open Recursive DNS to avoid Internet censorship
 ```shell
